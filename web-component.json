@@ -1,0 +1,37 @@
+{
+  "components": [
+    {
+      "name": "open-shadow",
+      "description": "Open Shadow DOM Component",
+      "attributes": [
+        {
+          "name": "text",
+          "description": "The text inside the component",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "closed-shadow",
+      "description": "Closed Shadow DOM Component",
+      "attributes": [
+        {
+          "name": "text",
+          "description": "The text inside the component",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "simple-custom",
+      "description": "A simple custom Component",
+      "attributes": [
+        {
+          "name": "text",
+          "description": "The text inside the component",
+          "required": true
+        }
+      ]
+    }
+  ]
+}
