@@ -1,0 +1,5 @@
+{
+  "html.experimental.tagDefinitions": [
+    "./web-component.json"
+  ]
+}
