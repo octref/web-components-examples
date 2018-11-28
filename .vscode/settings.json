@@ -1,5 +1,9 @@
 {
-  "html.experimental.tagDefinitions": [
-    "./web-component.json"
+  "html.experimental.tags": [
+    "./web-component.json",
+    "./element-details/web-component.json"
+  ],
+  "html.experimental.globalAttributes": [
+    "./web-component-attributes.json"
   ]
 }

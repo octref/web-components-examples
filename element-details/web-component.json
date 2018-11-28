@@ -1,0 +1,9 @@
+{
+  "components": [
+    {
+      "name": "element-details",
+      "description": "Custom Web Component for <details>",
+      "attributes": []
+    }
+  ]
+}

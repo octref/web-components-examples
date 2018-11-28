@@ -1,0 +1,8 @@
+{
+  "globalAttributes": [
+    {
+      "name": "pine-wc-attribute",
+      "description": "Pine's global Web Components attribute"
+    }
+  ]
+}
