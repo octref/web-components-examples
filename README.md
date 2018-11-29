@@ -21,3 +21,4 @@ Please send feedback and feature requests to https://github.com/Microsoft/vscode
 - [ ] VS Code's HTML langauge server loads these components upon startup. Ideally, as users change the configuration, VS Code's HTML language server should reload the tags / attributes definitions.
 - [ ] `slot` is not being parsed and no `<slot>` or `<slot name="">` completions yet.
 - [ ] Currently this model makes it possible for `my-ui-lib` to publish a NPM package including a `web-components.json`, and ask users to include `./node_modules/my-ui-lib/web-components.json` in their workspace settings for HTML language features. However, extensions cannot contribute such JSON files yet. Tracked in https://github.com/Microsoft/vscode/issues/64022.
+- [ ] No emmet support yet. Tracked in https://github.com/Microsoft/vscode/issues/64032.
