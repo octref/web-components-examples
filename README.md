@@ -6,6 +6,8 @@ Please send feedback and feature requests to https://github.com/Microsoft/vscode
 
 ## Demo
 
+**The support is only in [Insiders](https://code.visualstudio.com/insiders/) right now. It'll be made available in the upcoming 1.30 release.**
+
 ![demo](demo.gif)
 
 ## Files of interest
