@@ -1,35 +1,32 @@
 {
-  "components": [
+  "tags": [
     {
-      "name": "open-shadow",
+      "label": "open-shadow",
       "description": "Open Shadow DOM Component",
       "attributes": [
         {
-          "name": "text",
-          "description": "The text inside the component",
-          "required": true
+          "label": "text",
+          "description": "The text inside the component"
         }
       ]
     },
     {
-      "name": "closed-shadow",
+      "label": "closed-shadow",
       "description": "Closed Shadow DOM Component",
       "attributes": [
         {
-          "name": "text",
-          "description": "The text inside the component",
-          "required": true
+          "label": "text",
+          "description": "The text inside the component"
         }
       ]
     },
     {
-      "name": "simple-custom",
-      "description": "A simple custom Component",
+      "label": "my-custom-tag",
+      "description": "My custom tag",
       "attributes": [
         {
-          "name": "text",
-          "description": "The text inside the component",
-          "required": true
+          "label": "text",
+          "description": "The text inside the component"
         }
       ]
     }
