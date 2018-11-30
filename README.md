@@ -2,7 +2,10 @@
 
 This is a fork of https://github.com/mdn/web-components-examples to demonstrate VS Code's improved HTML support for custom tags / attributes.
 
-Please send feedback and feature requests to https://github.com/Microsoft/vscode/issues/62976 or open new issues at https://github.com/Microsoft/vscode.
+- VS Code tracking issue: https://github.com/Microsoft/vscode/issues/62976
+- w3c/webcomponents discussion: https://github.com/w3c/webcomponents/issues/776
+
+Please send feedback and feature requests to the above issues or open new issues at https://github.com/Microsoft/vscode.
 
 ## Demo
 
