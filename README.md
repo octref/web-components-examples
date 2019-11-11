@@ -1,3 +1,7 @@
+# MOVED to https://github.com/microsoft/vscode-custom-data/tree/master/samples/webcomponents
+
+---
+
 # Web Component Examples
 
 This is a fork of https://github.com/mdn/web-components-examples to demonstrate VS Code's improved HTML support for custom tags / attributes.
